@@ -1,2 +1,5 @@
-# Natural-language-processing-NLP---Python
-Natural language processing (NLP) - Python, NLTK
+# Natural-language-processing-NLP-Python
+
+Introduction to programming for language processing with NLTK 
+
+###### GEDAI-UESPI-BCC-PHB
